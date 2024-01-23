@@ -1,0 +1,46 @@
+.newMatch {
+    text-align: center;
+  }
+
+form{
+    /* border: solid 0.5em darkblue; */
+    padding: 2em;
+}
+
+div{
+    margin-bottom: 1em;
+}
+
+label{
+    font-size: medium;
+    margin-right: 1em;
+    padding: 1em;
+    color: #d7d61a;
+}
+
+input{
+    font-size: medium;
+    padding: 0.5em;
+    width: 500px;
+}
+
+.team{
+    border: solid 0.5em rgb(139, 97, 0);
+    padding: 0.5em;
+
+}
+
+.team div{
+    width:100px
+}
+
+button{
+    width: 5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    width: 10em;
+    height: 2em;
+    font-size: large;
+    font-weight: 800;
+    color: cadetblue;
+}
